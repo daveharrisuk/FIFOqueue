@@ -1,5 +1,5 @@
 # FIFOqueue
-Arduino FIFO ring buffer queue
+Arduino FIFO byte type ring buffer queue
 
 //usage...
 FIFOqueue que(16);
